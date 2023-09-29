@@ -1,3 +1,6 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+	<dimen name="minus_prefix_margin">0dp</dimen>
+	<dimen name="minus_spinner_margin">0dp</dimen>
+	<dimen name="minus_spinner_top_margin">0dp</dimen>
 </resources>

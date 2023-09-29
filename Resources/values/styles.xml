@@ -29,4 +29,8 @@
 		<item name="android:textStyle">bold</item>
 	</style>
 
+	<style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner.Underlined">
+		<item name="android:textSize">24dp</item>
+	</style>
+
 </resources>

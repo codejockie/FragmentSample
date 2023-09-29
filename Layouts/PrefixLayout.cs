@@ -2,7 +2,6 @@
 using Android.Util;
 using Android.Widget;
 using FragmentSample.Views;
-using static Android.Renderscripts.Sampler;
 
 namespace FragmentSample.Layouts
 {

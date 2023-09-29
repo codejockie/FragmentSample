@@ -68,7 +68,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shakespeare.cs" />
     <Compile Include="TitlesFragment.cs" />
+    <Compile Include="Views\AffixEditText.cs" />
+    <Compile Include="Views\CustomSpinner.cs" />
+    <Compile Include="Views\IMarginable.cs" />
+    <Compile Include="Views\ISpinner.cs" />
     <Compile Include="Views\PrefixEditText.cs" />
+    <Compile Include="Views\PrefixLayout.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -131,6 +136,12 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\prefix_layout.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\layout_prefix.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\array.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

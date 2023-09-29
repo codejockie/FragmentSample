@@ -1,0 +1,8 @@
+﻿<resources>
+	<string-array name="spinner_payment_schedule">
+		<item>item1</item>
+		<item>item2</item>
+		<item>item3</item>
+		<item>item4</item>
+	</string-array>
+</resources>
