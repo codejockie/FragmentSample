@@ -3,4 +3,6 @@
 	<dimen name="minus_prefix_margin">0dp</dimen>
 	<dimen name="minus_spinner_margin">0dp</dimen>
 	<dimen name="minus_spinner_top_margin">0dp</dimen>
+	<dimen name="dialog_text_padding">3dp</dimen>
+	<dimen name="dialog_padding">15dp</dimen>
 </resources>

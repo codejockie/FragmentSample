@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">FragmentSample</string>
     <string name="action_settings">Settings</string>
+	<string name="dialog_cancel">Cancel</string>
+	<string name="dialog_continue">Continue</string>
+	<string name="dialog_warning_title">Warning</string>
+	<string name="dialog_minimum_receiving_message">Date doesn\'t meet minimum receiving requirements. Please contact Supervisor/Buying Dept for approval.</string>
+	<string name="dialog_expiration">Expiration Date:</string>
+	<string name="dialog_min_required_date">Min. Required Date:</string>
+	<string name="dialog_days_short">Days short</string>
+	<string name="open_dialog">Open dialog</string>
 </resources>
